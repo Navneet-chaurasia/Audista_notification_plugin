@@ -2,6 +2,7 @@ name: voiceover_notification_plugin
 description: Notifications supoort for playing audio in background 
 version: 0.0.1
 author: Navneet Chaurasia<navneetc486@gmail.com>
+homepage: https://github.com/Navneet-chaurasia/voiceover_notification_plugin
 
 
 environment:
