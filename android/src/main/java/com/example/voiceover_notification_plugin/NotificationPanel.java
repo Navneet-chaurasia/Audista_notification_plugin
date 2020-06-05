@@ -78,7 +78,7 @@ public class NotificationPanel extends Service {
                         .setShowActionsInCompactView(0, 1,2)
                         .setShowCancelButton(true)
                         .setMediaSession(mediaSession.getSessionToken()))
-               
+               .setSmallIcon(R.drawable.ic_stat_music_note)
                 .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
                 .setVibrate(new long[]{0L})
                 .setPriority(NotificationCompat.PRIORITY_MAX)
